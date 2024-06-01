@@ -1,4 +1,4 @@
-function Element(porps){
+function Element(props){
       return (
             <p>{props.content}</p>
       )
